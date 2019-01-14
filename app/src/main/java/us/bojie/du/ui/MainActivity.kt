@@ -1,7 +1,8 @@
-package us.bojie.du
+package us.bojie.du.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import us.bojie.du.R
 
 class MainActivity : AppCompatActivity() {
 
